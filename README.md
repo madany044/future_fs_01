@@ -16,6 +16,8 @@ Frontend: React.js, Vite
 
 Styling: CSS3 (Custom styling, responsive layouts)
 
+Backend Framework: Node.js with Express.js
+
 Icons: React Icons
 
 Deployment: (Vercel / Netlify)
